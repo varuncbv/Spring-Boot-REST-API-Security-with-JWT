@@ -1,0 +1,7 @@
+com\letsstartcoding\springbootrestapijwt\config\JWTConfig.class
+com\letsstartcoding\springbootrestapijwt\service\UserService.class
+com\letsstartcoding\springbootrestapijwt\controller\DemoController.class
+com\letsstartcoding\springbootrestapijwt\repository\UserRepository.class
+com\letsstartcoding\springbootrestapijwt\model\Role.class
+com\letsstartcoding\springbootrestapijwt\model\User.class
+com\letsstartcoding\springbootrestapijwt\App.class
